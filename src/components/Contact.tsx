@@ -42,8 +42,8 @@ const Contact = () => {
             
             <div className="card-neon p-6 rounded-xl">
               <div className="flex items-center space-x-4">
-                <div className="w-12 h-12 bg-neon-blue/20 rounded-lg flex items-center justify-center">
-                  <MapPin className="w-6 h-6 text-neon-blue" />
+                <div className="w-12 h-12 bg-neon-crimson/20 rounded-lg flex items-center justify-center">
+                  <MapPin className="w-6 h-6 text-neon-crimson" />
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-foreground">Visit Us</h3>

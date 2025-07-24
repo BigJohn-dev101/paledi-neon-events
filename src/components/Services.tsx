@@ -18,13 +18,13 @@ const Services = () => {
       icon: Gift,
       title: "Birthday Parties",
       description: "Vibrant celebrations that make every birthday special and memorable",
-      color: "text-neon-pink"
+      color: "text-secondary"
     },
     {
       icon: Music,
       title: "Concerts & Shows",
       description: "Spectacular live entertainment with professional stage and sound setup",
-      color: "text-neon-blue"
+      color: "text-neon-crimson"
     },
     {
       icon: Users,
@@ -36,7 +36,7 @@ const Services = () => {
       icon: Sparkles,
       title: "Special Occasions",
       description: "Custom events tailored to your unique vision and requirements",
-      color: "text-secondary"
+      color: "text-neon-red"
     }
   ];
 
